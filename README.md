@@ -1,4 +1,4 @@
-#Covid-19-Analysis-SQL-Project#
+Covid-19-Analysis-SQL-Project
 
 #Overview#
 This project is focused on analyzing Covid-19 data, including infection rates, death rates, and vaccination trends. The dataset consists of two main tables: Covid_deaths and Covid_vaccination. Through SQL queries, the project aims to uncover meaningful insights regarding the pandemic's impact on different regions and continents.
