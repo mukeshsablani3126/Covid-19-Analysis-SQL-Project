@@ -11,8 +11,8 @@ The goal of this project is to understand:
 3.The percentage of populations infected and vaccinated.
 4.Key comparisons between infection rates and vaccination progress.
 
-Key Analyses
-1.Infection and Death Rates: Calculated infection and death rates by location, including:
+Key Analyses:
+Infection and Death Rates: Calculated infection and death rates by location, including:
 
 Total cases vs new cases.
 Death rate percentage across countries like India.
